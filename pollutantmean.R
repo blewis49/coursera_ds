@@ -1,6 +1,6 @@
 # title:  Week 2 R Programming project part 1
 # date:  22 March 2018
-# author:  William Lewis
+# author:  Bubba Lewis
 # ____________________________________
 
 # create a function named 'pollutantmean' that calculates the mean of a pollutant across a specified list of monitors.

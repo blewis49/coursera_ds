@@ -1,6 +1,6 @@
 # title:  Week 2 R Programming project part 2
 # date:  22 March 2018
-# author:  William Lewis
+# author:  Bubba Lewis
 # ____________________________________
 
 # create a function named 'complete' that reports the number of complete observed cases in each data file.
