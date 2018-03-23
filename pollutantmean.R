@@ -1,4 +1,4 @@
-# title:  Week 2 R Programming project
+# title:  Week 2 R Programming project part 1
 # date:  22 March 2018
 # author:  William Lewis
 # ____________________________________
